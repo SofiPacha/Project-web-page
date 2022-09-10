@@ -1,2 +1,8 @@
 Este es un archivo en la nube :)
 Fermin ya se conectó
+
+Tecnologias
+
+React
+Tailwind
+Next js
